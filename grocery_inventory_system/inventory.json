@@ -1,0 +1,202 @@
+{
+    "basmati_rice": {
+        "price": 120.0,
+        "quantity": 35
+    },
+    "wheat_flour": {
+        "price": 45.0,
+        "quantity": 50
+    },
+    "refined_sugar": {
+        "price": 52.0,
+        "quantity": 40
+    },
+    "moong_dal": {
+        "price": 110.0,
+        "quantity": 30
+    },
+    "toor_dal": {
+        "price": 130.0,
+        "quantity": 25
+    },
+    "chana_dal": {
+        "price": 95.0,
+        "quantity": 40
+    },
+    "poha": {
+        "price": 38.0,
+        "quantity": 45
+    },
+    "vermicelli": {
+        "price": 28.0,
+        "quantity": 60
+    },
+    "cooking_oil": {
+        "price": 165.0,
+        "quantity": 25
+    },
+    "mustard_oil": {
+        "price": 155.0,
+        "quantity": 20
+    },
+    "salt": {
+        "price": 20.0,
+        "quantity": 80
+    },
+    "tea_powder": {
+        "price": 250.0,
+        "quantity": 18
+    },
+    "coffee_powder": {
+        "price": 320.0,
+        "quantity": 12
+    },
+    "milk": {
+        "price": 28.0,
+        "quantity": 100
+    },
+    "butter": {
+        "price": 55.0,
+        "quantity": 35
+    },
+    "curd": {
+        "price": 30.0,
+        "quantity": 60
+    },
+    "paneer": {
+        "price": 80.0,
+        "quantity": 25
+    },
+    "bread": {
+        "price": 35.0,
+        "quantity": 50
+    },
+    "bananas": {
+        "price": 10.0,
+        "quantity": 100
+    },
+    "apples": {
+        "price": 20.0,
+        "quantity": 78
+    },
+    "mangoes": {
+        "price": 30.0,
+        "quantity": 35
+    },
+    "tomatoes": {
+        "price": 10.0,
+        "quantity": 100
+    },
+    "potatoes": {
+        "price": 12.0,
+        "quantity": 90
+    },
+    "onions": {
+        "price": 15.0,
+        "quantity": 100
+    },
+    "carrots": {
+        "price": 18.0,
+        "quantity": 60
+    },
+    "spinach": {
+        "price": 25.0,
+        "quantity": 40
+    },
+    "green_peas": {
+        "price": 40.0,
+        "quantity": 35
+    },
+    "biscuits": {
+        "price": 30.0,
+        "quantity": 70
+    },
+    "chocolates": {
+        "price": 50.0,
+        "quantity": 45
+    },
+    "namkeen": {
+        "price": 42.0,
+        "quantity": 60
+    },
+    "instant_noodles": {
+        "price": 55.0,
+        "quantity": 65
+    },
+    "cold_drink": {
+        "price": 40.0,
+        "quantity": 70
+    },
+    "mineral_water": {
+        "price": 20.0,
+        "quantity": 120
+    },
+    "soap": {
+        "price": 35.0,
+        "quantity": 55
+    },
+    "shampoo": {
+        "price": 120.0,
+        "quantity": 25
+    },
+    "toothpaste": {
+        "price": 55.0,
+        "quantity": 40
+    },
+    "detergent": {
+        "price": 180.0,
+        "quantity": 30
+    },
+    "dish_liquid": {
+        "price": 85.0,
+        "quantity": 25
+    },
+    "tissue_box": {
+        "price": 60.0,
+        "quantity": 20
+    },
+    "hand_sanitizer": {
+        "price": 75.0,
+        "quantity": 25
+    },
+    "ice_cream": {
+        "price": 90.0,
+        "quantity": 30
+    },
+    "cornflakes": {
+        "price": 180.0,
+        "quantity": 20
+    },
+    "jam": {
+        "price": 120.0,
+        "quantity": 25
+    },
+    "honey": {
+        "price": 150.0,
+        "quantity": 23
+    },
+    "pickle": {
+        "price": 95.0,
+        "quantity": 30
+    },
+    "papad": {
+        "price": 70.0,
+        "quantity": 40
+    },
+    "frozen_paratha": {
+        "price": 80.0,
+        "quantity": 30
+    },
+    "ready_meal": {
+        "price": 150.0,
+        "quantity": 12
+    },
+    "PS5": {
+        "price": 49990.0,
+        "quantity": 43
+    },
+    "dairy milk": {
+        "price": 25.0,
+        "quantity": 50
+    }
+}

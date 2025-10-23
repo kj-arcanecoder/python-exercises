@@ -1,0 +1,17 @@
+[
+    {
+        "product": "PS5",
+        "quantity": 1,
+        "cost": 49990.0
+    },
+    {
+        "product": "bananas",
+        "quantity": 2,
+        "cost": 20.0
+    },
+    {
+        "product": "honey",
+        "quantity": 2,
+        "cost": 300.0
+    }
+]
