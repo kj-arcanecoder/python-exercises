@@ -7,12 +7,11 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
+### `grocery_inventory_system/`
+A simple command-line based Grocery Inventory Management System
+
 ### `finance_tracker/`
-A mini finance planner project where users can:
-- Add income and expenses  
-- View transaction history  
-- Analyze balance trends  
-(Uses file I/O, tuples, and sorting)
+A mini finance planner project
 
 ### `word_jumble/`
 A word jumble game where players guess the correct word from scrambled letters.
@@ -36,6 +35,7 @@ A collection of basic and advanced mathematical operations for practice — incl
 - Data Sorting and Filtering
 - Basic Object-Oriented Programming
 - Python Formatting (`format`, f-strings)
+- Errors and exceptions
 
 ---
 
