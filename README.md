@@ -42,7 +42,7 @@ A collection of basic and advanced mathematical operations for practice — incl
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/kj-arcanecoder/python-exercises.git
 2. Run any script using:
    ```bash
    python <filename>.py
