@@ -7,6 +7,9 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
+### 'file organizer' 
+A mini automation project organizing files into categorized folders
+
 ### `grocery_inventory_system/`
 A simple command-line based Grocery Inventory Management System
 
