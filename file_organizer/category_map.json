@@ -1,0 +1,10 @@
+{
+  "Documents": [".pdf", ".docx", ".txt", ".csv", ".xls", ".xlsx", ".xlsm"],
+  "Presentations": [".ppt", ".pptx"],
+  "Images": [".png", ".jpg", ".jpeg"],
+  "Archives": [".zip", ".rar", ".7z"],
+  "Executables": [".exe", ".app", ".jar"],
+  "Configurations": [".xml", ".properties", ".json"],
+  "Logs": [".log"],
+  "SourceCode": [".java"]
+}
