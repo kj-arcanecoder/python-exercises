@@ -1,0 +1,70 @@
+{
+    "200001": {
+        "member_name": "Alice Johnson",
+        "borrowed_books": []
+    },
+    "200002": {
+        "member_name": "Brian Lee",
+        "borrowed_books": []
+    },
+    "200003": {
+        "member_name": "Catherine Smith",
+        "borrowed_books": []
+    },
+    "200004": {
+        "member_name": "David Thompson",
+        "borrowed_books": []
+    },
+    "200005": {
+        "member_name": "Elena Garcia",
+        "borrowed_books": []
+    },
+    "200006": {
+        "member_name": "Franklin Wright",
+        "borrowed_books": []
+    },
+    "200007": {
+        "member_name": "Grace Patel",
+        "borrowed_books": []
+    },
+    "200008": {
+        "member_name": "Henry Kim",
+        "borrowed_books": []
+    },
+    "200009": {
+        "member_name": "Isabella Brown",
+        "borrowed_books": []
+    },
+    "200010": {
+        "member_name": "Jack Wilson",
+        "borrowed_books": []
+    },
+    "200011": {
+        "member_name": "Alex Maguire",
+        "borrowed_books": []
+    },
+    "200012": {
+        "member_name": "Luke Shaw",
+        "borrowed_books": []
+    },
+    "200013": {
+        "member_name": "Matthijs De Ligt",
+        "borrowed_books": []
+    },
+    "200014": {
+        "member_name": "Benjamin Sesko",
+        "borrowed_books": []
+    },
+    "200015": {
+        "member_name": "David Beckham",
+        "borrowed_books": []
+    },
+    "200016": {
+        "member_name": "Roberto Carlos",
+        "borrowed_books": []
+    },
+    "200017": {
+        "member_name": "Robert Pitt",
+        "borrowed_books": []
+    }
+}

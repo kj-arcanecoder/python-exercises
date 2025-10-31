@@ -1,0 +1,112 @@
+{
+    "100001": {
+        "title": "Tress of the Emerald Sea",
+        "author": "Brandon Sanderson",
+        "available": true
+    },
+    "100002": {
+        "title": "The Haunting of Hill House",
+        "author": "Shirley Jackson",
+        "available": true
+    },
+    "100003": {
+        "title": "The Vegetarian",
+        "author": "Han Kang",
+        "available": true
+    },
+    "100004": {
+        "title": "Kitchen",
+        "author": "Banana Yoshimoto",
+        "available": true
+    },
+    "100005": {
+        "title": "Bad Dreams in the Night",
+        "author": "Adam Ellis",
+        "available": true
+    },
+    "100006": {
+        "title": "The Centre",
+        "author": "Ayesha Manazir Siddiqi",
+        "available": true
+    },
+    "100007": {
+        "title": "Bride",
+        "author": "Ali Hazelwood",
+        "available": true
+    },
+    "100008": {
+        "title": "Yellowface",
+        "author": "R.F. Kuang",
+        "available": true
+    },
+    "100009": {
+        "title": "Nosy Neighbors",
+        "author": "Freya Sampson",
+        "available": true
+    },
+    "100010": {
+        "title": "The God of the Woods",
+        "author": "Liz Moore",
+        "available": true
+    },
+    "100011": {
+        "title": "Around the World in Eighty Days",
+        "author": "Jules Verne",
+        "available": true
+    },
+    "100012": {
+        "title": "Beach Read",
+        "author": "Emily Henry",
+        "available": true
+    },
+    "100013": {
+        "title": "The Sands of Time",
+        "author": "Sidney Sheldon",
+        "available": true
+    },
+    "100014": {
+        "title": "The Deal",
+        "author": "Elle Kennedy",
+        "available": true
+    },
+    "100015": {
+        "title": "Into the Fire",
+        "author": "Jeaniene Frost",
+        "available": true
+    },
+    "100016": {
+        "title": "Twice Tempted",
+        "author": "Jeaniene Frost",
+        "available": true
+    },
+    "100017": {
+        "title": "Belladonna",
+        "author": "Adalyn Grace",
+        "available": true
+    },
+    "100018": {
+        "title": "One Dark Window",
+        "author": "Rachel Gillig",
+        "available": true
+    },
+    "100019": {
+        "title": "The Familiar",
+        "author": "Leigh Bardugo",
+        "available": true
+    },
+    "100020": {
+        "title": "One Share of Night",
+        "author": "Mariana Enriquez",
+        "available": true
+    },
+    "100021": {
+        "title": "Bunny",
+        "author": "Mona Awad",
+        "available": true
+    },
+    "100022": {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "available": true
+    }
+}

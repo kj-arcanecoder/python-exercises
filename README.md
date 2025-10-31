@@ -7,7 +7,10 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
-### 'file organizer' 
+### 'library_management' 
+A Python CLI tool to manage books, members, and transactions in a library.
+
+### 'file_organizer' 
 A mini automation project organizing files into categorized folders
 
 ### `grocery_inventory_system/`
