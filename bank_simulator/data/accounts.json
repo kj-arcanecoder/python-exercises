@@ -1,16 +1,4 @@
 {
-    "1516543": {
-        "account_holder": "Karan Jaswal",
-        "balance": 11255801.0,
-        "pin": 2345,
-        "type": "savings"
-    },
-    "6195637": {
-        "account_holder": "Aarushi Agarwal",
-        "balance": 383823782.0,
-        "pin": 1234,
-        "type": "savings"
-    },
     "7683012": {
         "account_holder": "Bruce Wayne",
         "balance": 288839213.0,

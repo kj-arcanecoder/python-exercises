@@ -9,7 +9,3 @@ class CheckingAccount(account.Account):
     def __init__(self, account_number, account_holder, balance, pin, account_type):
         super().__init__(account_number, account_holder, balance, pin, account_type)
         self.overdraft_limit = 20000.00
-
-    def withdraw(withdraw_amount):
-        pass
-        # return super().withdraw()
