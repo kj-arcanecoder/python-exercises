@@ -7,22 +7,25 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
-### 'library_management' 
+### 'banking_simulator/'
+Program to manage bank accounts with deposit, withdrawal, and transfer features.
+
+### 'library_management/' 
 A Python CLI tool to manage books, members, and transactions in a library.
 
-### 'file_organizer' 
+### 'file_organizer/
 A mini automation project organizing files into categorized folders
 
-### `grocery_inventory_system/`
+### 'grocery_inventory_system/'
 A simple command-line based Grocery Inventory Management System
 
-### `finance_tracker/`
+### 'finance_tracker/'
 A mini finance planner project
 
-### `word_jumble/`
+### 'word_jumble/'
 A word jumble game where players guess the correct word from scrambled letters.
 
-### `mathops/`
+### 'mathops/'
 A collection of basic and advanced mathematical operations for practice — includes a simple stats module.
 
 ### 🎮 Standalone Games

@@ -1,0 +1,44 @@
+{
+    "1516543": {
+        "account_holder": "Karan Jaswal",
+        "balance": 11255801.0,
+        "pin": 2345,
+        "type": "savings"
+    },
+    "6195637": {
+        "account_holder": "Aarushi Agarwal",
+        "balance": 383823782.0,
+        "pin": 1234,
+        "type": "savings"
+    },
+    "7683012": {
+        "account_holder": "Bruce Wayne",
+        "balance": 288839213.0,
+        "pin": 1234,
+        "type": "checking"
+    },
+    "6381658": {
+        "account_holder": "Clark Kent",
+        "balance": 83723721.0,
+        "pin": 1234,
+        "type": "savings"
+    },
+    "8566576": {
+        "account_holder": "Peter Parker",
+        "balance": 93638784.982,
+        "pin": 1234,
+        "type": "savings"
+    },
+    "2756689": {
+        "account_holder": "Tony Stark",
+        "balance": 80800.0,
+        "pin": 1234,
+        "type": "checking"
+    },
+    "5965702": {
+        "account_holder": "Steve Rogers",
+        "balance": 1041395.57947899,
+        "pin": 1234,
+        "type": "savings"
+    }
+}
