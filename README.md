@@ -7,6 +7,9 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
+### 'address_manager/'
+Modular Python CLI Address Book with CRUD, JSON, and CSV export.
+
 ### 'banking_simulator/'
 Program to manage bank accounts with deposit, withdrawal, and transfer features.
 
