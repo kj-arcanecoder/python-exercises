@@ -15,7 +15,7 @@ class Hangman:
         print("-----------------Hangman-----------------")
         count = 10
         word_guessed = False
-        word = random.choice(list(self.words))
+        word = random.choice(self.words)
         word_guess = "_" * len(word)
         guessed_letters = set()
         while word != word_guess and count > 0:
