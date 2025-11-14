@@ -7,6 +7,9 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
+### 'step_tracker/'
+A CLI step tracker with JSON storage, input validation, plots, and tests.
+
 ### 'address_manager/'
 Modular Python CLI Address Book with CRUD, JSON, and CSV export.
 
