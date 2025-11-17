@@ -7,6 +7,9 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
+### 'temperature_tracker/'
+Loads dated temperature records from a file, computes stats, plots the trend using matplotlib.
+
 ### 'step_tracker/'
 A CLI step tracker with JSON storage, input validation, plots, and tests.
 
