@@ -18,20 +18,5 @@
         "questions_attempted": 28,
         "correct_answers": 22,
         "correct_percentage": 78.57
-    },
-    "Aarushi": {
-        "questions_attempted": 44,
-        "correct_answers": 33,
-        "correct_percentage": 75.0
-    },
-    "Karan": {
-        "questions_attempted": 40,
-        "correct_answers": 25,
-        "correct_percentage": 62.5
-    },
-    "Wewake": {
-        "questions_attempted": 60,
-        "correct_answers": 22,
-        "correct_percentage": 36.67
     }
 }

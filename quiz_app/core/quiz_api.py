@@ -60,9 +60,9 @@ def get_raw_categories():
     try:
         r = requests.get(category_url, headers)
     except requests.exceptions.ConnectionError:
-        logger.info(f"Failed to fetch the API {category_url}")
+        logger.error(f"Failed to fetch the API {category_url}")
         return []
-    logger.error(f"URL={category_url} responseCode={r.status_code}" 
+    logger.info(f"URL={category_url} responseCode={r.status_code}" 
                 f"elapsedTime={r.elapsed} status={r.reason}")
     response_dict = r.json()
     categories_list = response_dict['trivia_categories']
