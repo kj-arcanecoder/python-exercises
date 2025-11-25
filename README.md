@@ -7,6 +7,9 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
+### 'quiz_app'
+API-powered quiz app with multiple modes, categories, difficulty levels, and a persistent leaderboard.
+
 ### 'temperature_tracker/'
 Loads dated temperature records from a file, computes stats, plots the trend using matplotlib.
 

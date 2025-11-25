@@ -1,0 +1,8 @@
+URL = https://opentdb.com/api.php?amount=10
+MCQ = https://opentdb.com/api.php?amount=10&type=multiple
+boolean = https://opentdb.com/api.php?amount=10&type=boolean
+difficulty = https://opentdb.com/api.php?amount=10&type=multiple&difficulty=easy
+
+categories list = https://opentdb.com/api_category.php
+category wise questions = https://opentdb.com/api.php?amount=10&type=multiple&difficulty=easy&category=15
+

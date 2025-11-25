@@ -1,0 +1,37 @@
+{
+    "Bruce Wayne": {
+        "questions_attempted": 36,
+        "correct_answers": 16,
+        "correct_percentage": 44.44
+    },
+    "Tony Stark": {
+        "questions_attempted": 8,
+        "correct_answers": 3,
+        "correct_percentage": 37.5
+    },
+    "Steve Rogers": {
+        "questions_attempted": 12,
+        "correct_answers": 6,
+        "correct_percentage": 50.0
+    },
+    "Carl Johnson": {
+        "questions_attempted": 28,
+        "correct_answers": 22,
+        "correct_percentage": 78.57
+    },
+    "Aarushi": {
+        "questions_attempted": 44,
+        "correct_answers": 33,
+        "correct_percentage": 75.0
+    },
+    "Karan": {
+        "questions_attempted": 40,
+        "correct_answers": 25,
+        "correct_percentage": 62.5
+    },
+    "Wewake": {
+        "questions_attempted": 60,
+        "correct_answers": 22,
+        "correct_percentage": 36.67
+    }
+}
