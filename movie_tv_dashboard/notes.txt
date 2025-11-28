@@ -1,0 +1,36 @@
+1. Trending movies today
+https://api.themoviedb.org/3/trending/movie/day?api_key=YOUR_API_KEY
+
+2. Trending shows today
+https://api.themoviedb.org/3/trending/tv/day?api_key=YOUR_API_KEY
+
+3. Search by movie name
+https://api.themoviedb.org/3/search/movie?api_key=YOUR_API_KEY&query=John%20Wick
+
+4. Search by TV show name
+https://api.themoviedb.org/3/search/tv?api_key=YOUR_API_KEY&query=Breaking%20Bad
+
+5. Browse movies by genre
+
+Step 1 — get list of movie genres:
+
+https://api.themoviedb.org/3/genre/movie/list?api_key=YOUR_API_KEY
+
+
+Step 2 — browse movies by genre (example: Action = 28)
+
+https://api.themoviedb.org/3/discover/movie?api_key=YOUR_API_KEY&with_genres=28
+
+6. Browse shows by genre
+
+Step 1 — get list of TV show genres:
+
+https://api.themoviedb.org/3/genre/tv/list?api_key=YOUR_API_KEY
+
+
+Step 2 — browse shows by genre (example: Comedy = 35)
+
+https://api.themoviedb.org/3/discover/tv?api_key=YOUR_API_KEY&with_genres=35
+
+7. View top rated movies
+https://api.themoviedb.org/3/movie/top_rated?api_key=YOUR_API_KEY

@@ -1,0 +1,1325 @@
+{
+    "2025-11-27 16:26:51": {
+        "timestamp": "2025-11-27 16:26:51",
+        "query_type": "tv",
+        "query": "game of thrones",
+        "results_count": "4",
+        "results": {
+            "1399": {
+                "adult": false,
+                "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+                "genre_ids": [
+                    10765,
+                    18,
+                    10759
+                ],
+                "id": 1399,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Game of Thrones",
+                "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+                "popularity": 105.6105,
+                "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+                "first_air_date": "2011-04-17",
+                "name": "Game of Thrones",
+                "vote_average": 8.459,
+                "vote_count": 25814
+            },
+            "206584": {
+                "adult": false,
+                "backdrop_path": "/q0EfVHIIxCyCqUKNEvtGqx4iZig.jpg",
+                "genre_ids": [
+                    10767
+                ],
+                "id": 206584,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The Game of Thrones Reunion Hosted by Conan O'Brien",
+                "overview": "A two-part reunion show with cast members from the final season including Kit Harington, Emilia Clarke, Sophie Turner and more, as well as previously departed fan-favorites like Sean Bean, Jason Momoa, Mark Addy and others.",
+                "popularity": 0.646,
+                "poster_path": "/xwq2TALKkuCujBnUTpr57wDO61y.jpg",
+                "first_air_date": "2021-04-05",
+                "name": "The Game of Thrones Reunion Hosted by Conan O'Brien",
+                "vote_average": 8.4,
+                "vote_count": 9
+            },
+            "94997": {
+                "adult": false,
+                "backdrop_path": "/2xGcSLyTAzConiHAByWqhfLiatT.jpg",
+                "genre_ids": [
+                    10765,
+                    18,
+                    10759
+                ],
+                "id": 94997,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "House of the Dragon",
+                "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+                "popularity": 32.4275,
+                "poster_path": "/oxmdHR5Ka28HAJuMmS2hk5K6QQY.jpg",
+                "first_air_date": "2022-08-21",
+                "name": "House of the Dragon",
+                "vote_average": 8.308,
+                "vote_count": 5578
+            },
+            "224372": {
+                "adult": false,
+                "backdrop_path": "/rDYaWzUNv78wY8SaWWPEJGQPssU.jpg",
+                "genre_ids": [
+                    18,
+                    10765
+                ],
+                "id": 224372,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "A Knight of the Seven Kingdoms",
+                "overview": "Set in an age when the Targaryen line still holds the Iron Throne and the memory of the last dragon has not yet passed from living memory, great destinies, powerful foes and dangerous exploits all await these improbable and incomparable friends.",
+                "popularity": 5.417,
+                "poster_path": "/olmiqSMfi4KwtxrLcFNjsjMlwzl.jpg",
+                "first_air_date": "2026-01-18",
+                "name": "A Knight of the Seven Kingdoms",
+                "vote_average": 0.0,
+                "vote_count": 0
+            }
+        }
+    },
+    "2025-11-27 16:27:05": {
+        "timestamp": "2025-11-27 16:27:05",
+        "query_type": "tv",
+        "query": "arrow",
+        "results_count": "20",
+        "results": {
+            "1412": {
+                "adult": false,
+                "backdrop_path": "/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10759
+                ],
+                "id": 1412,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Arrow",
+                "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+                "popularity": 47.2072,
+                "poster_path": "/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+                "first_air_date": "2012-10-10",
+                "name": "Arrow",
+                "vote_average": 6.828,
+                "vote_count": 6172
+            },
+            "280224": {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [],
+                "id": 280224,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Arrow",
+                "overview": "Her name is Sona, and her Arrow helps her find things.",
+                "popularity": 0.1935,
+                "poster_path": null,
+                "first_air_date": "2009-04-26",
+                "name": "Arrow",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "96942": {
+                "adult": false,
+                "backdrop_path": "/lu34GoIkOhpvmgSvrFtDdXkIItI.jpg",
+                "genre_ids": [
+                    16,
+                    10759,
+                    10765
+                ],
+                "id": 96942,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30d0\u30c3\u30af\u30fb\u30a2\u30ed\u30a6",
+                "overview": "Lingalind is a land enclosed by the Wall. The Wall covers, protects, cultivates, and nurtures the land. One day in Edger, a village on the outskirts of Lingalind, a mysterious man named Back Arrow appears. Arrow has lost his memory, but he claims that all he knows is that \u201cI came from outside the Wall.\u201d",
+                "popularity": 3.9403,
+                "poster_path": "/w3RUD613FuVRRiS1g9IALhKdhVe.jpg",
+                "first_air_date": "2021-01-09",
+                "name": "BACK ARROW",
+                "vote_average": 6.8,
+                "vote_count": 20
+            },
+            "67020": {
+                "adult": false,
+                "backdrop_path": "/qRzl8DYICpUuZadfXTv116UHd84.jpg",
+                "genre_ids": [
+                    16
+                ],
+                "id": 67020,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30b9\u30c8\u30e9\u30a4\u30af\u30a6\u30a3\u30c3\u30c1\u30fc\u30ba Operation Victory Arrow",
+                "overview": "Operation Victory Arrow takes place in the time between the end of Operation Mars in the second season and the movie. Their are three 30-minute short stories that show the lives of some of the members who returned to their homes after season 2.",
+                "popularity": 0.5646,
+                "poster_path": "/r5zb0jYAjcSNESIZ2olWwbKSIBk.jpg",
+                "first_air_date": "2014-09-20",
+                "name": "Strike Witches: Operation Victory Arrow",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "44465": {
+                "adult": false,
+                "backdrop_path": "/mw2lH8j684K18YKrKwBcV09pGH9.jpg",
+                "genre_ids": [
+                    16,
+                    18
+                ],
+                "id": 44465,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30a2\u30ed\u30fc\u30a8\u30f3\u30d6\u30ec\u30e0 \u30b0\u30e9\u30f3\u30d7\u30ea\u306e\u9df9",
+                "overview": "Takaya Todoroki's dreams of becoming an F1 driver are halted when he crashes his self-built car, but a masked man offers him a second chance, and so Takaya takes on the challenge of establishing his talent with the new Katori Motors team.",
+                "popularity": 2.3147,
+                "poster_path": "/jJvyBWMLekrHgRVlc5E2Zzn6XqH.jpg",
+                "first_air_date": "1977-09-22",
+                "name": "Arrow Emblem: Grand Prix no taka",
+                "vote_average": 8.0,
+                "vote_count": 2
+            },
+            "57202": {
+                "adult": false,
+                "backdrop_path": "/qGPKNUkHgbjNmRu2dhvRgRVpVMK.jpg",
+                "genre_ids": [],
+                "id": 57202,
+                "origin_country": [
+                    "CN"
+                ],
+                "original_language": "zh",
+                "original_name": "\u7bad\u5728\u5f26\u4e0a",
+                "overview": "After the September 18th Incident, Dong Bei was occupied by the Japanese enemy. Rong Shi (Jin Dong) knows that Japanese soldiers want kill the whole Xu family when Xu Yihang (Jiang Xin)\u2019s wedding ceremony. He sent a messenger to tell Xu family this thing. But there is traitor in Xu family. So finally Japanese soldier still kill whole family. Three siblings embarked on a road of revenge from here.",
+                "popularity": 2.5882,
+                "poster_path": "/o6LcafeqPpQHTGKi5qBxgF9VK1Q.jpg",
+                "first_air_date": "2012-09-13",
+                "name": "Arrows on the Bowstring",
+                "vote_average": 7.0,
+                "vote_count": 3
+            },
+            "13870": {
+                "adult": false,
+                "backdrop_path": "/itV07LzxTuhaoXqoP8UCERzNh4k.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 13870,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Broken Arrow",
+                "overview": "Broken Arrow is a Western series which ran on ABC-TV in prime time from 1956 through 1958 on Tuesdays at 9 p.m. Eastern time. Repeat episodes were shown by ABC on Sunday afternoons during the 1959\u201360 season. Selected repeats were then shown once again in prime time during the summer of 1960.",
+                "popularity": 3.6961,
+                "poster_path": null,
+                "first_air_date": "1956-09-25",
+                "name": "Broken Arrow",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "84289": {
+                "adult": false,
+                "backdrop_path": "/vwJr0Pgt15eGmCeyqHsZWSCh41D.jpg",
+                "genre_ids": [
+                    18,
+                    10768
+                ],
+                "id": 84289,
+                "origin_country": [
+                    "EG",
+                    "AE"
+                ],
+                "original_language": "ar",
+                "original_name": "\u0627\u0644\u0633\u0647\u0627\u0645 \u0627\u0644\u0645\u0627\u0631\u0642\u0629",
+                "overview": "The series examines a number of issues related to the Arab society, especially the Egyptian one, the most important of which is the problem of terrorism and how this issue is handled.",
+                "popularity": 1.1876,
+                "poster_path": "/iCv4MwadA1DFz9e4gUKsBp3hyV1.jpg",
+                "first_air_date": "2018-05-17",
+                "name": "Rogue Arrows",
+                "vote_average": 8.0,
+                "vote_count": 1
+            },
+            "37152": {
+                "adult": false,
+                "backdrop_path": "/5PLTdPzTG6TJR5NGVyq4vCvqiNu.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 37152,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u604b\u306e\u795e\u69d8",
+                "overview": "",
+                "popularity": 0.967,
+                "poster_path": "/cABkk9i2GzOtR72Da48kObmmqrS.jpg",
+                "first_air_date": "2000-01-14",
+                "name": "Cupid's Arrows",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "80883": {
+                "adult": false,
+                "backdrop_path": "/5cLmNTkCoFaegO5lgFnMWQfkKwL.jpg",
+                "genre_ids": [
+                    10759
+                ],
+                "id": 80883,
+                "origin_country": [
+                    "IT"
+                ],
+                "original_language": "it",
+                "original_name": "La freccia nera",
+                "overview": "Very successful italian version of Robert Louis Stevenson's historical romance \"The black arrow\", produced by public TV and directed by Anton Giulio Majano, considered \"italian tele-romance father\". An happy ending love story during the \"Two Roses War\" between York and Lancaster, in seven episodes.",
+                "popularity": 0.5383,
+                "poster_path": "/7TRTOdyLzlTrZi3Jnmt4cGTh7TM.jpg",
+                "first_air_date": "1968-12-22",
+                "name": "The Black Arrow",
+                "vote_average": 8.0,
+                "vote_count": 4
+            },
+            "5723": {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [
+                    18
+                ],
+                "id": 5723,
+                "origin_country": [
+                    "IT"
+                ],
+                "original_language": "it",
+                "original_name": "La freccia nera",
+                "overview": "The inspiring principle of the adaptation of the novel by R. L. Stevenson \"The Black Arrow\" for Tv is to shift the conflict of the War of the Two Roses from England to Tirolo, at the border between Italy and Germany, where the conflict between the Pope and the Empire takes place in the same years. This is the transition period in which Middle Age - embodied in the tyrannical feudatory Raniero von Rottemburg - gives way to Modern times - represented by Cusano and his Court. The main theme of the novel is that one cannot fight against evil by doing evil. The protagonists of our series will come to understand that the aim does not justify the means and that justice has to replace revenge. The Black Arrow is a Bildungsroman about growth and love in wartime: at the end of the 15th century the nobles connected to the Asburgo's Court fight against those related to the Church and to its spiritual master Nicolo Cusano - Nikolaus von Kues - bishop of Bressanone.",
+                "popularity": 0.1754,
+                "poster_path": "/8xn7mfsJUutDZq3VTzbZc1F53rP.jpg",
+                "first_air_date": "2006-10-12",
+                "name": "The Black Arrow",
+                "vote_average": 5.8,
+                "vote_count": 2
+            },
+            "108784": {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [],
+                "id": 108784,
+                "origin_country": [
+                    "TW"
+                ],
+                "original_language": "zh",
+                "original_name": "\u7075\u5c71\u795e\u7bad",
+                "overview": "",
+                "popularity": 1.0388,
+                "poster_path": "/o6qs1TtPFSHgiVqkB149QZFX0jF.jpg",
+                "first_air_date": "1987-08-08",
+                "name": "The Sacred Arrow Of Spirit Mountain",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "10851": {
+                "adult": false,
+                "backdrop_path": "/kla1VFuq8p4yJx4U2WNNdmWw4Lj.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 10851,
+                "origin_country": [
+                    "CA"
+                ],
+                "original_language": "en",
+                "original_name": "Slings & Arrows",
+                "overview": "This darkly comic Canadian series follows the fortunes of a dysfunctional Shakespearean theatre troupe at the fictional New Burbage Festival, exposing the high drama, scorching battles, and artistic miracles that happen behind the scenes.",
+                "popularity": 1.6664,
+                "poster_path": "/fRZycR6zj0kYn6ddpm9a6RCbNfN.jpg",
+                "first_air_date": "2003-11-03",
+                "name": "Slings & Arrows",
+                "vote_average": 7.05,
+                "vote_count": 20
+            },
+            "72325": {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [
+                    10751,
+                    10759
+                ],
+                "id": 72325,
+                "origin_country": [],
+                "original_language": "en",
+                "original_name": "The Black Arrow",
+                "overview": "Based on the novel by Robert Louis Stevenson, The Black Arrow tells the tale of Richard Shelton, a knight who avenges the death of his father during the War of the Roses. Richard is surrounded by enemies, some of whom he considers his most trusted companions.",
+                "popularity": 1.3132,
+                "poster_path": "/6bpbhlmluTIEZ5eV0DzwRTxMyIN.jpg",
+                "first_air_date": "1972-04-12",
+                "name": "The Black Arrow",
+                "vote_average": 6.0,
+                "vote_count": 2
+            },
+            "9345": {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [
+                    18,
+                    99
+                ],
+                "id": 9345,
+                "origin_country": [
+                    "CA"
+                ],
+                "original_language": "en",
+                "original_name": "The Arrow",
+                "overview": "The story of the people building the AVRO Arrow, an advanced jet fighter-interceptor designed to defend Canada's vast territory during the Cold War. Though the jet was an engineering marvel, cost over-runs, U.S. government pressure from the military industrial complex, and the election of the Progressive Conservative Diefenbaker government, stopped the jet just as it was getting off the ground.",
+                "popularity": 1.3738,
+                "poster_path": "/qDOYxgwLSZD7BHmXXf0FsWnlmOR.jpg",
+                "first_air_date": "1997-01-12",
+                "name": "The Arrow",
+                "vote_average": 7.5,
+                "vote_count": 2
+            },
+            "293001": {
+                "adult": false,
+                "backdrop_path": "/ZRx4wsBMxcMxI6laJCUfKFsTu.jpg",
+                "genre_ids": [
+                    16,
+                    10759,
+                    80,
+                    10751
+                ],
+                "id": 293001,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Green Arrow",
+                "overview": "Follow the Emerald Archer and his super artificial intelligence bow as he takes on crime alongside Black Canary.",
+                "popularity": 0.5423,
+                "poster_path": "/nqGtcYk8OVgkE99gfN6um5RTczn.jpg",
+                "first_air_date": "2014-04-16",
+                "name": "Green Arrow",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "72895": {
+                "adult": false,
+                "backdrop_path": "/ar6abURFBW7i3ZrCfJJo1P8Uzkc.jpg",
+                "genre_ids": [],
+                "id": 72895,
+                "origin_country": [],
+                "original_language": "en",
+                "original_name": "Arrow: Blood Rush",
+                "overview": "A six episode mini series broadcast online alongside Arrow. Felicity meets Roy and has a special mission for him.",
+                "popularity": 0.7796,
+                "poster_path": "/fsrKFJPxXBuBDAFoL3IlAWBFWvG.jpg",
+                "first_air_date": "2013-11-06",
+                "name": "Arrow: Blood Rush",
+                "vote_average": 7.941,
+                "vote_count": 17
+            },
+            "210828": {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [
+                    18,
+                    10751
+                ],
+                "id": 210828,
+                "origin_country": [
+                    "CZ"
+                ],
+                "original_language": "cs",
+                "original_name": "Arrowsmith",
+                "overview": "",
+                "popularity": 0.438,
+                "poster_path": null,
+                "first_air_date": "1997-01-01",
+                "name": "Arrowsmith",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "97538": {
+                "adult": false,
+                "backdrop_path": "/oIF4rgP626FPSCBxkiffUNkF6BR.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 97538,
+                "origin_country": [
+                    "GB"
+                ],
+                "original_language": "en",
+                "original_name": "Red Arrows Take America",
+                "overview": "Behind-the-scenes of the Royal Air Force Aerobatic Team\u2019s most ambitious overseas tour. The four-part documentary follows the Red Arrows on a 22,000-mile journey across Canada and the United States \u2013 aimed at showcasing the best of British in North America. Pictures and footage from the 11-week tour made headlines around the world earlier this year but this series explains how it was done and the challenges overcome.",
+                "popularity": 0.1297,
+                "poster_path": "/msmLNLPnpi6u3q2ngbOUKn2Aknu.jpg",
+                "first_air_date": "2020-01-08",
+                "name": "Red Arrows Take America",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "66654": {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [
+                    99
+                ],
+                "id": 66654,
+                "origin_country": [
+                    "GB"
+                ],
+                "original_language": "en",
+                "original_name": "The Red Arrows",
+                "overview": "Documentary which goes inside the selection process for the best formation flying team in the world, the Red Arrows. Two pilots are selected to join the Arrows from a shortlist of nine elite RAF candidates. In order to be selected they have to perform a number of tests, from backseat flying, to close-formation manoeuvres, to socialising, to face-to-face, formal interviews.",
+                "popularity": 0.1974,
+                "poster_path": null,
+                "first_air_date": "2006-08-28",
+                "name": "The Red Arrows",
+                "vote_average": 8.5,
+                "vote_count": 1
+            }
+        }
+    },
+    "2025-11-27 16:27:21": {
+        "timestamp": "2025-11-27 16:27:21",
+        "query_type": "tv",
+        "query": "captain",
+        "results_count": "20",
+        "results": {
+            "478": {
+                "adult": false,
+                "backdrop_path": "/3a5Wi8bUWe5CZ4AyK9ie50i5CN0.jpg",
+                "genre_ids": [
+                    16,
+                    10759,
+                    10765,
+                    10762
+                ],
+                "id": 478,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Captain Planet and the Planeteers",
+                "overview": "Eco-villains beware: Captain Planet is here to save the day! With the guidance of Gaia, five Planeteers - representing Earth, Fire, Water, Wind and Heart - come together to defend our planet from environmental destruction. With their powers combined, the team becomes the solution to pollution!",
+                "popularity": 6.8517,
+                "poster_path": "/dYHburcl1LKnUQrmB7BOUpOiHx.jpg",
+                "first_air_date": "1990-09-15",
+                "name": "Captain Planet and the Planeteers",
+                "vote_average": 6.788,
+                "vote_count": 226
+            },
+            "25707": {
+                "adult": false,
+                "backdrop_path": "/bwQHVs25LNYpPzfvDIYdVJjk2fW.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    16
+                ],
+                "id": 25707,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30ad\u30e3\u30d7\u30c6\u30f3\u7ffc",
+                "overview": "Tsubasa Ozora loves playing football since he was a little child. After moving to the japanese town of Nankatsu together with his mother, the 11-year-old boy quickly finds friends and joins the local football team of his elementary school. Together with his newly made friends and Brazilian mentor Roberto, Tsubasa starts his exciting journey to chase after his most desired dream - one day winning the FIFA World Cup.",
+                "popularity": 13.6068,
+                "poster_path": "/wXoaJS4N1aG6dY4vipxyvJ5g4pZ.jpg",
+                "first_air_date": "1983-10-13",
+                "name": "Captain Tsubasa",
+                "vote_average": 7.8,
+                "vote_count": 807
+            },
+            "77240": {
+                "adult": false,
+                "backdrop_path": "/dSvRkislUYBu8jWpqRpUsfNFNcr.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    18
+                ],
+                "id": 77240,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30ad\u30e3\u30d7\u30c6\u30f3\u7ffc",
+                "overview": "The passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing football at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession.  In order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.",
+                "popularity": 11.2204,
+                "poster_path": "/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg",
+                "first_air_date": "2018-04-03",
+                "name": "Captain Tsubasa",
+                "vote_average": 8.2,
+                "vote_count": 709
+            },
+            "203299": {
+                "adult": false,
+                "backdrop_path": "/tabwEBeMWaWH7Q7B2WR0M9VkD4j.jpg",
+                "genre_ids": [
+                    10767
+                ],
+                "id": 203299,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "A Captain's Log",
+                "overview": "A Journalistic news source and interview TV Talk show beaming down the latest Star Trek news and views from all the ships crews. A Captain's Log guides viewers through this side of our galaxy's quadrant with a splash of knowledge in our top 10 lists and interviews. Looking through Roddenberry's Star Trek universe and beyond in this half hour scoop at warp power, host Bryan Kreutz, his co-host Lili Fox-Lim steer viewers into a knowledge-based trek of Klingon language all the way through full interviews with guests the fans want to hear from. Bryan and Lili are accompanied by an animated alter ego named Rogg to humor viewers with relevant Star Trek news and views. From a Starfleet ambassador's point of view, as Ambassador to the fan's, Bryan Kreutz hands over the conn to his animated android counterpart's perspective ranging from logical knowledge to unknowns in Star Trek's Past, present, and beyond.",
+                "popularity": 2.2222,
+                "poster_path": "/bfTOLCaIPt0nxgXLCrsvhBR7DlW.jpg",
+                "first_air_date": "2021-06-30",
+                "name": "A Captain's Log",
+                "vote_average": 7.5,
+                "vote_count": 2
+            },
+            "24106": {
+                "adult": false,
+                "backdrop_path": "/wj29buGmdKH1crhCnq6GEM6PczN.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    10759
+                ],
+                "id": 24106,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30ad\u30e3\u30d7\u30c6\u30f3\u7ffc",
+                "overview": "Tsubasa becomes a superstar amongst soccer players in Brazil. He is now planning to play in Europe. At an important must-win game, as the fans cheer him on, Tsubasa looks back at the days when he started his soccer life. His passion to make goals and win the game is as strong as it was during his childhood. He recalls the games and moments that had decisive impact on his life. He remembers Goalkeeper Wakabayashi, Genius striker Hyuga, tender-hearted Misaki and Coach Roberto. He was happy to meet them, enjoyed playing with them, and learned many things from them. The whistle sounds and the game begins. Tsubasa dashes for the ball!",
+                "popularity": 5.7105,
+                "poster_path": "/mFQYzHQr6IpzjR3bxFYE2pHBBny.jpg",
+                "first_air_date": "2001-10-07",
+                "name": "Captain Tsubasa: Road to 2002",
+                "vote_average": 7.7,
+                "vote_count": 278
+            },
+            "31714": {
+                "adult": false,
+                "backdrop_path": "/emBhP4hN3oNNx2QapodTMAAMFyv.jpg",
+                "genre_ids": [
+                    10759,
+                    16,
+                    10765
+                ],
+                "id": 31714,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u5b87\u5b99\u6d77\u8cca\u30ad\u30e3\u30d7\u30c6\u30f3\u30cf\u30fc\u30ed\u30c3\u30af",
+                "overview": "When a mysterious invader from the stars catches Earth unawares, only the legendary space pirate Captain Harlock and the crew of the Arcadia have the will to stand against them.",
+                "popularity": 5.2992,
+                "poster_path": "/uxME9jveTHhoKKqN0e2PaotoJmv.jpg",
+                "first_air_date": "1978-03-14",
+                "name": "Space Pirate Captain Harlock",
+                "vote_average": 7.2,
+                "vote_count": 48
+            },
+            "34189": {
+                "adult": false,
+                "backdrop_path": "/bTTxdfY8nlVNIpfeIy798iZKXk8.jpg",
+                "genre_ids": [
+                    10765,
+                    16,
+                    35
+                ],
+                "id": 34189,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u7121\u8cac\u4efb\u8266\u9577\u30bf\u30a4\u30e9\u30fc",
+                "overview": "Justy Ueki Tylor had his life all planned out: join the military, get a cushy desk job, and then retire with a big fat pension check. The perfect plan... until he wandered into a hostage situation and somehow managed to save an admiral! Now Tylor - a man who wouldn't know what discipline was if it bit him on the backside - has been made Captain of the space cruiser Soyokaze.\n\nThe crew of this run-down ship is the craziest rag-tag team of misfits you're ever likely to see, and they're not too fond of their complacent new leader. But they'd better learn to work together, because they're about to go head to head with the mighty Raalgon Empire. For better or for worse, the Earth's fate has been placed in the hands of a man who's either a total idiot - or an absolute genius!",
+                "popularity": 5.8343,
+                "poster_path": "/tmPKSHWBVIG2uBFDfMV1qdql8hV.jpg",
+                "first_air_date": "1993-01-25",
+                "name": "The Irresponsible Captain Tylor",
+                "vote_average": 7.7,
+                "vote_count": 13
+            },
+            "23004": {
+                "adult": false,
+                "backdrop_path": "/ikfli8KPDNaIrJZm3IXF4jsqda4.jpg",
+                "genre_ids": [
+                    16,
+                    10765
+                ],
+                "id": 23004,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30d5\u30e5\u30fc\u30c1\u30e3\u30fc",
+                "overview": "Curtis Newton, aka Captain Future, is an orphan. His parents died in their artificial satellite while he was an infant. His father was a scientist, who has abandoned earth for the satellite to dedicate his life for science along with his aging friend the genius Dr Simon Wright. Wright senses his death, and decides to implant his brain in a mechanical container. They both manufactured a superior robot and an android. Captain future dedicated his life to fight evil along with his three men, the brain, android, and robot.",
+                "popularity": 5.6455,
+                "poster_path": "/o69Gvj0iKzGr7AQt8ilkX7zHvHf.jpg",
+                "first_air_date": "1978-11-07",
+                "name": "Captain Future",
+                "vote_average": 8.1,
+                "vote_count": 105
+            },
+            "60806": {
+                "adult": false,
+                "backdrop_path": "/7kPV6VKnAoEe7MyXMyIKI8lqOjt.jpg",
+                "genre_ids": [
+                    16,
+                    10759,
+                    10765
+                ],
+                "id": 60806,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30a2\u30fc\u30b9",
+                "overview": "High-school student Daichi Manatsu works for the Globe organization to pilot a giant robot called the Earth Engine Impacter to protect the Earth from the invading alien force known as the \"Kill-T-Gang\", from the planet Uranus.",
+                "popularity": 3.167,
+                "poster_path": "/g8JU8FwRHdptsS0277dZFdHo5TC.jpg",
+                "first_air_date": "2014-04-06",
+                "name": "Captain Earth",
+                "vote_average": 6.5,
+                "vote_count": 19
+            },
+            "65835": {
+                "adult": false,
+                "backdrop_path": "/TvtgclnnmTm7xtBdvhJOto9o2v.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    35
+                ],
+                "id": 65835,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30ad\u30e3\u30d7\u30c6\u30f3\u7ffcJ",
+                "overview": "Captain Tsubasa J  is a TV anime series that retells the story of the original manga and also adds some arcs from the World Youth Saga manga. The anime was originally broadcast by Fuji Television in Japan from 1994-10-21 to 1995-12-22 with 47 episodes. The animation was done by Studio Comet. The series was suspended due to budget constraints.",
+                "popularity": 2.847,
+                "poster_path": "/utlvq1mRI77yO8JZTWTTgfoIUHc.jpg",
+                "first_air_date": "1994-10-21",
+                "name": "Captain Tsubasa J",
+                "vote_average": 7.8,
+                "vote_count": 58
+            },
+            "61807": {
+                "adult": false,
+                "backdrop_path": "/u77eNyfHY5YDwZvoR5CvMCdvVZT.jpg",
+                "genre_ids": [
+                    80
+                ],
+                "id": 61807,
+                "origin_country": [
+                    "FR"
+                ],
+                "original_language": "fr",
+                "original_name": "Cherif",
+                "overview": "An unconventional police captain with questionable methods learns to work with his new partner, a by-the-book criminal investigator.",
+                "popularity": 2.2439,
+                "poster_path": "/ncYFthEHN1FJnyFuOLJ7nP2cXOG.jpg",
+                "first_air_date": "2013-10-25",
+                "name": "Captain Sharif",
+                "vote_average": 7.4,
+                "vote_count": 15
+            },
+            "29816": {
+                "adult": false,
+                "backdrop_path": "/wbL2xBxLH7iYSQvPijnRQack0Q5.jpg",
+                "genre_ids": [
+                    10759,
+                    16,
+                    35
+                ],
+                "id": 29816,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u7802\u6f20\u306e\u6d77\u8cca\uff01 \u30ad\u30e3\u30d7\u30c6\u30f3\u30af\u30c3\u30d1",
+                "overview": "Sometime in the future, the world has completely dried up and become almost entirely desert. The few rivers and lakes remaining are inhabited by villains and dangerous animals. Water has become the most valuable thing on the planet, and whomever controls the water shall rule the world. Enter Captain Kuppa and his robot partner Drum, as they face off against the nefarious businessman, Bibimap, who is attemptting to horde all of the water he can find to sell at a premium. Will they be able to stop him, and what kind of friends and foes will they meet along the way?",
+                "popularity": 1.6811,
+                "poster_path": "/czFv70bNNKafX6IZCWzw3hn3lKe.jpg",
+                "first_air_date": "2001-08-13",
+                "name": "Desert Pirate! Captain Kuppa",
+                "vote_average": 8.0,
+                "vote_count": 1
+            },
+            "128948": {
+                "adult": false,
+                "backdrop_path": "/17skijhH4yQuhvkoaxpFCM4IL6R.jpg",
+                "genre_ids": [
+                    10759,
+                    16,
+                    35,
+                    10765,
+                    10768
+                ],
+                "id": 128948,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u7121\u8cac\u4efb\u8266\u9577\u30bf\u30a4\u30e9\u30fc OVA",
+                "overview": "Six long months have passed. The Raalgon Empire has developed a horrible new type of weapon, and Tylor has been charged with the duty of intercepting it as it is being transported. But when all that could go wrong does go wrong, the crew members of the Soyokaze find themselves at the mercy of their enemies. As the hours tick down toward their execution, the crew wonders: has their irresponsible captain misled them? Or is this all a part of some greater strategy?",
+                "popularity": 2.0571,
+                "poster_path": "/agCbY5OpyKw2p3gAZRASl5cqTlA.jpg",
+                "first_air_date": "1994-10-01",
+                "name": "The Irresponsible Captain Tylor  OVA",
+                "vote_average": 8.0,
+                "vote_count": 3
+            },
+            "125138": {
+                "adult": false,
+                "backdrop_path": "/5H9KQNtVwZMrV5OHzL4XyMJ8CMs.jpg",
+                "genre_ids": [
+                    16,
+                    18
+                ],
+                "id": 125138,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30ad\u30e3\u30d7\u30c6\u30f3",
+                "overview": "The original is an impressive sports manga featuring not heroes, but common boys, and the story depicts the growth of Sumiya 2 junior high school baseball team (the successive captains and players) in downtown Tokyo. Takao Taniguchi, who was a substitute player of the second team of Aoba Gakuin, a prestigious junior high school in the baseball world, but he transferred to Sumiya 2 and he became the captain of the baseball club. After steady training, the team try to do a final game in the regional preliminaries, against Aoba Gakuin.",
+                "popularity": 1.7151,
+                "poster_path": "/nOW3Bwqygz3qpxHTcFEUJJPxRWs.jpg",
+                "first_air_date": "1983-01-10",
+                "name": "Captain",
+                "vote_average": 8.0,
+                "vote_count": 1
+            },
+            "280821": {
+                "adult": false,
+                "backdrop_path": "/psD5RVhPoxJRxkxRG9hDMEaTuqA.jpg",
+                "genre_ids": [
+                    18,
+                    10767
+                ],
+                "id": 280821,
+                "origin_country": [
+                    "MY"
+                ],
+                "original_language": "ms",
+                "original_name": "Do You Love Me, Captain?",
+                "overview": "Do You Love Me, Captain?",
+                "popularity": 0.1623,
+                "poster_path": "/vMT9fw1AveIi2mw96d4KvLO5JvE.jpg",
+                "first_air_date": "2022-04-13",
+                "name": "Do You Love Me, Captain?",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "82531": {
+                "adult": false,
+                "backdrop_path": "/8nRZkm2Vam4tsw5TyC3EuRq2CQp.jpg",
+                "genre_ids": [
+                    10759
+                ],
+                "id": 82531,
+                "origin_country": [
+                    "HK"
+                ],
+                "original_language": "cn",
+                "original_name": "\u5f35\u4fdd\u4ed4",
+                "overview": "During a high-speed motorboat chase with a criminal, Cheung Chau police officer Wong Tai-mui gets herself trapped in a waterspout, accidentally opening a time portal. She travels back 200 years to 19th century Hong Kong, a time when the island was under Qing rule. Using her knowledge of the future, which she keeps in an e-book, she saves a family of pirates from a deadly naval battle against the Qing naval fleet led by Prince Man-ho, the eleventh son of the Jiaqing Emperor. Puzzled by her mysterious origins, the family remains wary of Tai-mui and is hesitant in trusting her. Meanwhile, at the royal court, Prince Man-ho becomes jaded from politics and family feud and decides to let go of his ambition for the crown.",
+                "popularity": 2.6424,
+                "poster_path": "/itHd6LZ0PWMIWKjwyM14nAK9ZJT.jpg",
+                "first_air_date": "2015-09-21",
+                "name": "Captain of Destiny",
+                "vote_average": 8.0,
+                "vote_count": 1
+            },
+            "100395": {
+                "adult": false,
+                "backdrop_path": "/hmFBcVVHsTuLW3aiFYgWQRuqtTi.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 100395,
+                "origin_country": [
+                    "CN"
+                ],
+                "original_language": "zh",
+                "original_name": "\u5211\u8b66\u961f\u957f",
+                "overview": "",
+                "popularity": 1.6464,
+                "poster_path": "/qlYLrs6eFvPHJ7WFNJzaXdGMpxp.jpg",
+                "first_air_date": "2015-05-25",
+                "name": "Police Captain",
+                "vote_average": 6.0,
+                "vote_count": 2
+            },
+            "274176": {
+                "adult": false,
+                "backdrop_path": "/wdXXRGzpGvnN3v9Gn3Dq6wmH9q0.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 274176,
+                "origin_country": [
+                    "EG"
+                ],
+                "original_language": "ar",
+                "original_name": "\u0627\u0644\u0643\u0627\u0628\u062a\u0646",
+                "overview": "The events of the Captain series revolve around Hossam Waly, a pilot captain who makes an unintended mistake during one of his flights, causing a malfunction that leads to the plane crashing. After he survives as the only one who survived the accident, he is surprised by the appearance of the souls of some passengers who ask him for help in completing some pending tasks that they were unable to accomplish before their death, as their souls become suspended until they are carried out.",
+                "popularity": 1.292,
+                "poster_path": "/jUwpGkOHM8nM8eQ8ofAuF3LtX1T.jpg",
+                "first_air_date": "2025-02-28",
+                "name": "The Captain",
+                "vote_average": 1.0,
+                "vote_count": 1
+            },
+            "63102": {
+                "adult": false,
+                "backdrop_path": "/wIq3EmyGZ7GuWQSxfB9JBwGU8wN.jpg",
+                "genre_ids": [
+                    16,
+                    10759
+                ],
+                "id": 63102,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u65b0\u30fb\u30ad\u30e3\u30d7\u30c6\u30f3\u7ffc",
+                "overview": "Shin CT takes place at the U-16 word cup in France. After some friendly matches in Germany, Japan defeats one opponent after another and finally reaches the final round against Germany. After hard matches against Italian and French top players, the German team seems to be even more supreme. The giant goal keeper Moeller, the all round ace Kalz and Europe's best player and forward Schneider offer the Japanese team an extremely hard match, but in the end Japan wins 3:2.",
+                "popularity": 2.1863,
+                "poster_path": "/pdJFjI7OFcNrUuQoslGKSKtUpZU.jpg",
+                "first_air_date": "1989-07-01",
+                "name": "Shin Captain Tsubasa",
+                "vote_average": 7.441,
+                "vote_count": 17
+            },
+            "239197": {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [
+                    18
+                ],
+                "id": 239197,
+                "origin_country": [
+                    "TH"
+                ],
+                "original_language": "th",
+                "original_name": "MY BOYFRIEND IS A CAPTAIN",
+                "overview": "",
+                "popularity": 0.0071,
+                "poster_path": "/cnSVnTPySOz8kCfeYpc5BTqWOtW.jpg",
+                "first_air_date": "",
+                "name": "MY BOYFRIEND IS A CAPTAIN",
+                "vote_average": 0.0,
+                "vote_count": 0
+            }
+        }
+    },
+    "2025-11-28 15:38:22": {
+        "timestamp": "2025-11-28 15:38:22",
+        "query_type": "tv",
+        "query": "shogun",
+        "results_count": "17",
+        "results": {
+            "126308": {
+                "adult": false,
+                "backdrop_path": "/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+                "genre_ids": [
+                    18,
+                    10768
+                ],
+                "id": 126308,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Sh\u014dgun",
+                "overview": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+                "popularity": 15.154,
+                "poster_path": "/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+                "first_air_date": "2024-02-27",
+                "name": "Sh\u014dgun",
+                "vote_average": 8.453,
+                "vote_count": 1529
+            },
+            "13862": {
+                "adult": false,
+                "backdrop_path": "/j5hn3Xn2BDbwR3tBX7s8m8Y1zce.jpg",
+                "genre_ids": [
+                    10759,
+                    18,
+                    10768
+                ],
+                "id": 13862,
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Sh\u014dgun",
+                "overview": "An English navigator becomes both a player and pawn in complex political games in feudal Japan.",
+                "popularity": 5.1788,
+                "poster_path": "/eW543y699jZMQAiBxqMBkYGXwjP.jpg",
+                "first_air_date": "1980-09-15",
+                "name": "Sh\u014dgun",
+                "vote_average": 7.618,
+                "vote_count": 220
+            },
+            "15680": {
+                "adult": false,
+                "backdrop_path": "/vDFrfFYqI2kXJEkkmV2PffunnTz.jpg",
+                "genre_ids": [
+                    10751,
+                    18,
+                    10759
+                ],
+                "id": 15680,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u66b4\u308c\u3093\u574a\u5c06\u8ecd",
+                "overview": "Set in the 18th century, the show follows the Shogun Yoshimune, who likes to disguise himself as a low-ranking samurai and go into his capital of Edo to see the life of the common man, as well as to seek out and punish evildoers who would hurt his citizens. He is aided by Magistrate Oo'oka and a vivacious fireman, Tatsugoro, as well as a rotating cast of other recurring characters.\n\nAlong with Zenigata Heiji and Mito K\u014dmon, it ranks among the longest-running series in the jidaigeki genre. Like so many other jidaigeki, it falls in the category of kanzen-ch\u014daku, loosely, \"rewarding good and punishing evil.\"",
+                "popularity": 22.1967,
+                "poster_path": "/i2SVXj2f1ep2Day2yCiLdm3iyIq.jpg",
+                "first_air_date": "1978-01-07",
+                "name": "Abarenbo Shogun",
+                "vote_average": 8.1,
+                "vote_count": 7
+            },
+            "60826": {
+                "adult": false,
+                "backdrop_path": "/lhxVRXZgLig07jXDiiCB6zUepIx.jpg",
+                "genre_ids": [
+                    10759,
+                    16
+                ],
+                "id": 60826,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u98a8\u96f2\u7dad\u65b0\u30c0\u30a4\u2606\u30b7\u30e7\u30fc\u30b0\u30f3",
+                "overview": "In the late Edo period, Japan had experienced an unprecedented crisis by Kurofune (Black Ships), the ships from foreign countries. But a giant robot called Onigami, which has existed since ancient time, dispelled the Kurofune ships and the exclusion of foreigners was accomplished. The story begins in Japan where Meiji restoration in 1868 didn't happen.",
+                "popularity": 2.5276,
+                "poster_path": "/tsDz74RVqwvwpK8IdS5n4CpuWnA.jpg",
+                "first_air_date": "2014-04-10",
+                "name": "Dai Shogun - Great Revolution",
+                "vote_average": 6.2,
+                "vote_count": 10
+            },
+            "125215": {
+                "adult": false,
+                "backdrop_path": "/p802Sw2f4XRXSym3K0tcLd6akAR.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 125215,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u938c\u5009\u6bbf\u306e13\u4eba",
+                "overview": "Following the ascension to power of Taira no Kiyomori, the Minamoto clan is exiled. Minamoto no Yoritomo meets Masako, the sister of H\u014dj\u014d Yoshitoki and later marries her. Following this marriage, the gears of Yoshitoki's destiny begin to turn.",
+                "popularity": 3.6104,
+                "poster_path": "/s4UyI28iOOJ0Lkj7S8VzaHuoWTo.jpg",
+                "first_air_date": "2022-01-09",
+                "name": "The 13 Lords of the Shogun",
+                "vote_average": 8.5,
+                "vote_count": 11
+            },
+            "75535": {
+                "adult": false,
+                "backdrop_path": "/7Lu8xiu4FFzqA9BFLDeAPFmQO65.jpg",
+                "genre_ids": [
+                    18,
+                    10768
+                ],
+                "id": 75535,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u72ec\u773c\u7adc\u653f\u5b97",
+                "overview": "Broadcast TV drama NHK broadcast on January 4 to December 13, 1987 (Showa 62). In the questionnaire survey conducted by NHK, it is shining in the most favorite river drama.\n\nThe original is Yamaka Sosaichi's novel \"Date Masamune\", the biggest drama on the theme of the Date house was the first time in 17 years since the \"Shinnogi remained\" (1970), which painted Datejo in the Edo period. It depicts the life of Matsudo Date of Sengoku warrior \u00b7 Date Masamune who built the foundation of Sendai clan 620,000 stones in his generation as a result of my own wisdom and talent.",
+                "popularity": 4.1047,
+                "poster_path": "/hrsc0fTMp3G5BG4vp0TCKqiSMkQ.jpg",
+                "first_air_date": "1987-01-04",
+                "name": "Masamune Shogun",
+                "vote_average": 9.2,
+                "vote_count": 6
+            },
+            "20096": {
+                "adult": false,
+                "backdrop_path": "/dyC6TdfuWdDu8cEQPhZAbmLpMXK.jpg",
+                "genre_ids": [],
+                "id": 20096,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u5c06\u8ecd\u5bb6\u5149\u5fcd\u3073\u65c5",
+                "overview": "Shogun Iemitsu Shinobi Tabi was a pair of television jidaigeki series on TV Asahi in Japan. The first aired in 1990\u20131991 and the sequel in 1992\u20131993. Kunihiko Mitamura portrayed Tokugawa Iemitsu in both series.\n\nThe show premiered on October 13, 1990, as an off-season replacement for the popular Abarenbo Shogun. It shared several cast members with Abarenbo Shogun, including Reiko Takashima, Ayako Tanaka and some minor guest actors. The final episode aired on March 30, 1991. The sequel ran during the same months of 1992\u20131993.",
+                "popularity": 2.3132,
+                "poster_path": "/gRDjLd4WOup2K2E42du19sED8s2.jpg",
+                "first_air_date": "1990-10-13",
+                "name": "Shogun Iemitsu Secret Journey",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "112429": {
+                "adult": false,
+                "backdrop_path": "/4YU8BTmYZdrrGLfzV2wKkJ0yDKb.jpg",
+                "genre_ids": [
+                    18,
+                    10768
+                ],
+                "id": 112429,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u516b\u4ee3\u5c06\u8ecd\u5409\u5b97",
+                "overview": "The drama is depicting the life and times in 17th and 18th century Japan during the rule of the eighth shogun, Tokugawa Yoshimune.",
+                "popularity": 1.5906,
+                "poster_path": "/tRDFZKQSYPlTjRHHjrtssP58XlT.jpg",
+                "first_air_date": "1995-01-08",
+                "name": "Eighth Shogun Yoshimune",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "207329": {
+                "adult": false,
+                "backdrop_path": "/msYdgU7TdjbkxDzvMmoxne49dgp.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 207329,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u98a8\u96f2\u6c5f\u6238\u57ce \u6012\u6d9b\u306e\u5c06\u8ecd\u5fb3\u5ddd\u5bb6\u5149",
+                "overview": "After the end of the reign of the second Shogun Hidetada, the country was still in turmoil. Meanwhile, Iemitsu, who took the place of the third shogun, is carrying out a number of political reforms. However, Yui Shosetsu, plans to overthrow the Tokugawa family...",
+                "popularity": 0.7883,
+                "poster_path": "/lGnQQraX3LnXSgAQ9rpcSCLpx6e.jpg",
+                "first_air_date": "1987-01-02",
+                "name": "Crisis at Edo Castle - Angry Shogun Tokugawa Iemitsu",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "203440": {
+                "adult": false,
+                "backdrop_path": "/5UTvl9imwgb5qfbyaJJYCY3Vb1G.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 203440,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u5bb6\u5eb7\u304c\u6700\u3082\u6050\u308c\u305f\u7537 \u771f\u7530\u5e78\u6751",
+                "overview": "An entertaining historical drama depicting Sanada Yukimura, a hero who has gone through the era from the incident at Honn\u014dji Temple to the summer siege of Osaka Castle, as \"a man of men\".",
+                "popularity": 1.1905,
+                "poster_path": "/kmWkDxsrUlQ97eGPOmVXg6Rcadb.jpg",
+                "first_air_date": "1998-01-02",
+                "name": "Sanada Yukimura: The Man Shogun Ieyasu Feared Most",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "19470": {
+                "adult": false,
+                "backdrop_path": null,
+                "genre_ids": [],
+                "id": 19470,
+                "origin_country": [],
+                "original_language": "en",
+                "original_name": "Sh\u014dgun no Onmitsu! Kage J\u016bhachi",
+                "overview": "Sh\u014dgun no Onmitsu! Kage J\u016bhachi is a television jidaigeki series. It ran in prime time on the TV Asahi network in Japan. The first episode aired on January 27, 1996, and the 19th and final installment was broadcast on June 29 of that year. The series starred Kunihiko Mitamura with Yoko Minamino, Y\u016bji Kishimoto, and Bengal as the team of secret agents working under the leadership of K\u014dtar\u014d Satomi. Ky\u014dko Tsujisawa also appeared regularly.\n\nThe series is set during the Edo period of the history of Japan. The eighth Tokugawa shogun, Yoshimune, had officially had 17 families of oniwaban, his private ninja guards. The title group was the secret 18th group. The series begins some months after Yoshimune's death as his fourth son Hitotsubashi Munetada brings the group back together. The team leader is Kan\u014d Ametar\u014d, a hairdresser. The other members are Miki, a doctor; Otojir\u014d; and Inokichi. Oharu owns the small restaurant where her brother Otojir\u014d works.\n\nMany actors and actresses appeared in guest roles. Among them were Hiroshi Arikawa, Yoriko Douguchi, Saiko Isshiki, Shun \u014cide, Mitsutaka Tachikawa, Naoya Uchida, Kenichi Endou, Seiz\u014d Fukumoto, Ken Nishida, Shun'ya Wazaki, Yuki Ninagawa, Kenta Satoi, Hiroshi Miyauchi, Kei Taguchi, Susumu Kurobe, Seiichir\u014d Kameishi, Shinsuke Mikimoto, Tsutomu Isobe, and Gor\u014d Mutsumi. Three guests had portrayed oniwaban on the television series Abarenb\u014d Sh\u014dgun, including the versions that preceded and followed Sh\u014dgun no Onmitsu! Kage J\u016bhachi in the same time slot on TV Asahi.",
+                "popularity": 0.0071,
+                "poster_path": null,
+                "first_air_date": "",
+                "name": "Sh\u014dgun no Onmitsu! Kage J\u016bhachi",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "37807": {
+                "adult": false,
+                "backdrop_path": "/dHQ6u5nRMCHGHLCl220iCah6jX0.jpg",
+                "genre_ids": [
+                    16,
+                    9648,
+                    10759,
+                    10762,
+                    10765
+                ],
+                "id": 37807,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30e1\u30bf\u30eb\u30d5\u30a1\u30a4\u30c8 \u30d9\u30a4\u30d6\u30ec\u30fc\u30c9",
+                "overview": "A new cast of characters take on the continued battle between good and evil. Gingka, our hero, and his group of loyal friends take on a dangerous group called the Dark Nebula. Dark Nebula\u2019s mission is to take over the world and unleash their evil upon it; but before they can do so, they must destroy Gingka as he is the only person that\u2019s strong enough to stand in their way. The plot thickens as friends become enemies and enemies become allies. Everything starts and ends with Gingka as he struggles to find the strength to defend his world and the honor of Beyblade.",
+                "popularity": 11.6919,
+                "poster_path": "/AvzR1LroQFPs8mtvW761BZX92qx.jpg",
+                "first_air_date": "2009-04-05",
+                "name": "Beyblade: Metal Saga",
+                "vote_average": 7.4,
+                "vote_count": 38
+            },
+            "112249": {
+                "adult": false,
+                "backdrop_path": "/5YfCFjLOtNSBbIsnk4tdFD1dswh.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 112249,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u67f3\u751f\u4e00\u65cf\u306e\u9670\u8b00",
+                "overview": "It takes place at the time of the Shogunate rule with Shogun Hidetada and who will succeed Hidetada. A struggle for power between the family and the daimyos. Historically the Yagyu's have always been close to the Shogunate, and helped...",
+                "popularity": 1.3407,
+                "poster_path": "/jw6zNjUOA3XeN8oRJTujSnOYBJR.jpg",
+                "first_air_date": "1978-10-03",
+                "name": "The Yagyu Conspiracy",
+                "vote_average": 7.0,
+                "vote_count": 2
+            },
+            "71134": {
+                "adult": false,
+                "backdrop_path": "/iHcZiqv7oLO8dkvecNXYISpi55z.jpg",
+                "genre_ids": [
+                    16
+                ],
+                "id": 71134,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u307e\u3093\u304c\u6c34\u6238\u9ec4\u9580",
+                "overview": "",
+                "popularity": 1.838,
+                "poster_path": "/nlh5vHORBB9v1CBGuAsBieAHSS0.jpg",
+                "first_air_date": "1981-09-03",
+                "name": "Manga Mito K\u00f4mon",
+                "vote_average": 5.4,
+                "vote_count": 5
+            },
+            "19567": {
+                "adult": false,
+                "backdrop_path": "/4NNwEoFgU3krLGERbC1reSqjqPW.jpg",
+                "genre_ids": [
+                    18,
+                    10768,
+                    10759
+                ],
+                "id": 19567,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u65b0\u9078\u7d44\u8840\u98a8\u9332",
+                "overview": "The arrival of Matthew Perry's Black Ships rudely awakened Japan from 300 years of isolation from the world. Men set their eyes beyond Japan and began to demand change in society. Old clashed with the new, and thus began an age of turmoil. Amidst this confusion, one group remained true to the old ways and risked their lives to preserve the traditional shogunate system. Led by their charismatic captain, Kondo Isami, the Shinsengumi upheld the code of honor of the samurai. Tales abound of the feats of men like Kondo, Hijikata Toshizo and Okita Soshi. In general, the passion and glory of these men who lived during these turbulent times in Japanese history are given exploration.",
+                "popularity": 1.4829,
+                "poster_path": "/9gchqShIufpSZW5mF6FyfPvEysw.jpg",
+                "first_air_date": "1998-10-08",
+                "name": "Bloody Journal of the Shinsengumi",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "126122": {
+                "adult": false,
+                "backdrop_path": "/uXcJ3gpjUUyUANVEqkRo45nFGPi.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 126122,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u5927\u5965",
+                "overview": "The Ooku of Edo Castle was a mysterious existence that could not be seen from the outside for 300 years in Tokugawa. Love and hate, and fierce power struggles were fought among the women day and night.",
+                "popularity": 0.8698,
+                "poster_path": "/bYwFIpqmKEfVmUFWgVSPhmEe5zO.jpg",
+                "first_air_date": "1968-04-06",
+                "name": "Ooku",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "201223": {
+                "adult": false,
+                "backdrop_path": "/pTGO0BXslSgl4P0IusmSut81g19.jpg",
+                "genre_ids": [],
+                "id": 201223,
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u5c06\u8ecd\u306e\u96a0\u5bc6\uff01\u5f71\u5341\u516b",
+                "overview": "During the Edo period, the eighth Tokugawa sh\u014dgun, Yoshimune, officially had 17 families of oniwaban, his private ninja guards. They were known as \"The Secret 18th Group.\" Months after Yoshimune's death, his fourth son, Hitotsubashi, asks Kane Ametaro, a hairdresser, to put the group back together. The other members of the secret 18th group include Miki, a doctor; Otojir\u014d, a chef; and Inokichi, an acrobat. The group members have their doubts and internal conflicts about how to live their lives as \"secret agents,\" but when various injustices occur in Edo... they have no other option but to unite and begin clearing the darkness together.",
+                "popularity": 0.9215,
+                "poster_path": null,
+                "first_air_date": "1996-01-27",
+                "name": "The Secret 18th Group",
+                "vote_average": 0.0,
+                "vote_count": 0
+            }
+        }
+    },
+    "2025-11-28 16:58:16": {
+        "timestamp": "2025-11-28 16:58:16",
+        "query_type": "tv",
+        "query": "mobland",
+        "results_count": "1",
+        "results": {
+            "247718": {
+                "adult": false,
+                "backdrop_path": "/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 247718,
+                "origin_country": [
+                    "GB",
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "MobLand",
+                "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+                "popularity": 30.2212,
+                "poster_path": "/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
+                "first_air_date": "2025-03-30",
+                "name": "MobLand",
+                "vote_average": 8.4,
+                "vote_count": 479
+            }
+        }
+    }
+}

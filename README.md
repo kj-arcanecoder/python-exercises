@@ -7,7 +7,10 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
-### 'quiz_app'
+### 'movie_tv/dashboard'
+A CLI movie & TV analytics dashboard with TMDB API, local history, pagination, and visual charts.
+
+### 'quiz_app/'
 API-powered quiz app with multiple modes, categories, difficulty levels, and a persistent leaderboard.
 
 ### 'temperature_tracker/'
