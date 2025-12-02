@@ -7,7 +7,10 @@ Each folder focuses on specific topics and concepts such as file handling, funct
 
 ## 📁 Folder Structure
 
-### 'movie_tv/dashboard'
+### 'log_analyzer'
+Parses web logs and generates insights with charts.
+
+### 'movie_tv_dashboard'
 A CLI movie & TV analytics dashboard with TMDB API, local history, pagination, and visual charts.
 
 ### 'quiz_app/'
